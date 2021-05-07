@@ -1,7 +1,7 @@
 # portfolio
 **How to run**: 
 
-```python3 main.py ./TestCases```
+```python manage.py runserver```
 
 <img width="953" alt="intro" src="https://user-images.githubusercontent.com/79529229/117434764-b55ace80-af4a-11eb-8d01-ab78594ba222.png">
 
